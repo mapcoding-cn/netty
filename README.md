@@ -1,6 +1,6 @@
 ![Build project](https://github.com/netty/netty/workflows/Build%20project/badge.svg)
 
-# Netty Project
+# Netty Project 阅读理解
 
 Netty is an asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
 
